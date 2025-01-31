@@ -1,2 +1,2 @@
-# UI_design-project
+HeyScott
 This is project readme
