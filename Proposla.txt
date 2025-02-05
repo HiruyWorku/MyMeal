@@ -1,2 +1,32 @@
-HeyScotts Project ProposalWe have chosen to name our company HeyStudents. Our app will be called HeyScots.During our experiences on campus, many activities and events have been clearlypresented to us through school emails, the Pot, and many other sources. However, there are alsomany events and situations that are not so clearly presented to students. For example, days afterthe return from break, the arch was filled, and many students were unaware of it due to a lack ofclear communication. When it snowed heavily on campus, most areas were salted properly, butsome were not such as the doorways near Holden Hall which for about a day were very slippery.Sometimes, there will be good vegan meals on campus and other times they will be seeminglyillogical combinations of food that may be less appealing. The simple solution to all theseproblems would be for students to share this information with each other.We seek to create HeyScots, an app that would allow students to create short term postsregarding active situations on campus. Students would be able to post events of note to them. If itis something significant, other students would have the ability to upvote the event. If an eventwas insignificant, like a complaint about a piece of trash on the lawn or something elseinsignificant, the hope would be that it would not receive attention and, due to a lack ofinteraction, in the form of others confirming it, be deleted after a few hours. The app would alsoallow students to vote on the quality and availability of meal options. Outside of standardmealtimes, it can be very difficult to create meal options for dietary constraints so it is crucialthat students could share information regarding the current options. Posts for meals would bedeleted at the start of the next mealtime. Additionally, we could provide notifications of whencertain meal options are removed. We would include a way to demonstrate different parts ofcampus to show areas that are particularly problematic like if a sidewalk were frozen over.
-Finally, if a student had a serious complaint about the noise in a building like if a group wasbeing particularly rowdy in a public space, they could complain about it. In general, this appwould serve as a place for students to vent about the short-term situations on campus and unlikesocial media services, the events would vanish as soon as they are past. We would have to relyon a few students who are truly annoyed or excited by situations. Of course, to demonstrate thatwhich is most significant to the student body, we would need to have the most interacted withitem appear first. There will also be a way to separate different categories of situations from eachother.Our application would require that files of multiple formats can easily be posted, such asimages or pdfs. It would require that deletions occur frequently on the images, pdfs etc. saved onthe app. It would require that the application can be interacted with from several differentsources and remain up to date.
+# **Project Proposal CS320 Spring 2025**  
+**Company Name:** Ben & Wyatt UID Co  
+**Application Name:** MyMeal  
+
+## **Proposal**  
+
+### **Application Overview**  
+The project we are proposing is a web-based platform designed to create a community for food enthusiasts and home cooks. This application will help provide an interactive and friendly environment where users can share, discover, create, and organize food recipes. In addition to being a community-based recipe site, the website will include meal-planning tools that can help users create customized daily or weekly menus.  
+
+### **Goals and Purpose**  
+The primary goal of this application is to simplify the meal planning process while also creating a sense of community among food lovers and shared culinary experiences. We aim to combine recipe discovery, creative sharing, and meal organization into one seamless user experience.  
+
+### **Challenges in this Domain**  
+- **Fragmented User Experience:** Nowadays, finding the right recipe requires switching between multiple websites for new (or old) recipes and meal planning.  
+- **Lack of Personalization:** Most current platforms fail to make suggestions based on users' preferences or dietary restrictions.  
+- **Inefficient Meal Planning:** Many people find meal planning inconvenient and time-consuming without a helpful application or interface.  
+- **Information Overload:** Finding reliable and well-reviewed recipes can be overwhelming, especially with the vast amount of unverified content.  
+
+### **Intended Audience**  
+The primary audience for this application will be people aged **18-60**. This includes individuals who are just starting to cook on their own, as well as experienced home cooks looking to share their recipes and experiences. Our target users will be those who want to save time on meal planning and discover exciting new recipes.  
+
+### **Proposed Features**  
+- A way to **favorite** recipes and create **lists/collections**  
+- Ability to **post, delete, and edit** recipes  
+- A **feed** that considers dietary restrictions/preferences  
+- A **tagging system** to filter by ingredients, cooking time, etc.  
+- **User accounts** for saving and managing recipes  
+- A **meal planner** for organizing recipes for the week  
+- Possible **calorie and macro tracking** feature  
+- **User-generated content** with the ability to upload, rate, and comment on recipes  
+- A **shopping list generator** that compiles a grocery list based on selected recipes  
+
